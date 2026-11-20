@@ -1,0 +1,13 @@
+{
+  "name": "defi-client",
+  "version": "1.0.0",
+  "description": "Unified multi-aggregator DeFi swap & bridge client",
+  "type": "module",
+  "main": "cli.mjs",
+  "scripts": {
+    "start": "node cli.mjs"
+  },
+  "dependencies": {
+    "ethers": "^6.13.2"
+  }
+}
